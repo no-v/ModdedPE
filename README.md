@@ -1,7 +1,6 @@
 [![License Info](https://img.shields.io/badge/license-GNU_GPLv3-blue.svg?style=flat-square)](https://github.com/TimScriptov/ModdedPE)
 
-# ModdedPE!
-![logo][1]
+# ModdedPE
 --------
 
 ### What is ModdedPE?
@@ -27,7 +26,6 @@ The Open Source NModAPI will help you a lot:)<br>
 > [Cydia Substrate][5]<br>
 > [ELFIO][6]<br>
 
-[1]: Art/title_logo.png
 [2]: https://github.com/listerily
 [4]: https://github.com/iqiyi/xHook
 [5]: http://www.cydiasubstrate.com/
